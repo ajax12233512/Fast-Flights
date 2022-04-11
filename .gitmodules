@@ -1,3 +1,6 @@
 [submodule "fast-flights-server"]
 	path = fast-flights-server
 	url = https://github.com/ajax12233512/fast-flights-server.git
+[submodule "fast-flights-client"]
+	path = fast-flights-client
+	url = https://github.com/ajax12233512/fast-flights-client.git
