@@ -6,7 +6,9 @@
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "develop": "concurrently \"cd fast-flights-server && npm start\" \"cd fast-flights-client && npm start\"",
+    "install": "concurrently \"cd fast-flights-server && npm install\" \"cd fast-flights-client && npm install\""
   },
   "repository": {
     "type": "git",
