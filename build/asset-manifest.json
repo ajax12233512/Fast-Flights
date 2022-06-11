@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b00eb5e.css",
+    "main.js": "/static/js/main.f32b0792.js",
+    "static/media/airplane.jpg": "/static/media/airplane.e6c1802476fc23cc38c9.jpg",
+    "index.html": "/index.html",
+    "main.9b00eb5e.css.map": "/static/css/main.9b00eb5e.css.map",
+    "main.f32b0792.js.map": "/static/js/main.f32b0792.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b00eb5e.css",
+    "static/js/main.f32b0792.js"
+  ]
+}
