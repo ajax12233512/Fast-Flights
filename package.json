@@ -15,7 +15,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node fast-flights-server/server.js",
     "develop": "concurrently \"cd fast-flights-server && npm run develop\" \"cd fast-flights-client && npm start\"",
-    "install": "concurrently \"cd fast-flights-server && npm install\" \"cd fast-flights-client && npm install\""
+    "install": "cd fast-flights-server && npm install && cd ../fast-flights-client && npm install"
   },
   "repository": {
     "type": "git",
